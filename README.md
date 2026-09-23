@@ -8,24 +8,26 @@
 
 💻 Software Fullstack Dev • UX/UI • AI • 3D • Automation
 
-----
+
 At <a href="https://screenmediagroup.com/">Screen Media Group, LLC</a> since 2013, now wearing the CTO & AI Specialist hats.
-----
-A good contribution starts with a good unit test.
 
-  ✓ 42 passed
-  ✓ 0 failed
+<p><strong>A good contribution starts with a good unit test.</strong></p>
 
-Continues with a good commit.
+<pre><code>$ npm run test
 
-  feat(auth): add passwordless login #PROJ-1234
+✓ 42 passed
+✓ 0 failed
 
-And ends with:
+<strong>Continues with a good commit.</strong>
 
-  ✓ Merged to main
-  ✓ Deployed to production
+$ git commit -m "feat(auth): add passwordless login #PROJ-1234"
 
-Now that's a contribution.
+<strong>And ends with:</strong>
+
+✓ Merged to main
+✓ Deployed to production
+
+<strong>Now that's a contribution.</strong></code></pre>
 
 <!---
 jhonnyvielma/jhonnyvielma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
