@@ -1,10 +1,9 @@
 
 
-- 👋 Hi, I’m @jhonnyvielma, an experienced UX/UI designer (and old Software Enginnering student) trying to become a Real Software Engineer.
-- 👀 I’m interested in Frontend and Backend Web, for now.
-- 🌱 I’m currently learning SASS, React, etc.
-- 📫 If you need something of me, or you think you have something to teach me, just write me to jhonny.vielma@gmail.com
-- 🎮 Also, (although less important) I-m a videogames passionate.
+👋 Designer by trade. Engineer by training. Programmer by obsession.
+🧠 Systems thinker. Nonlinear learner. Lifelong autodidact.
+🤖 AI is the sibling I was separated from at birth.
+💻 Software Fullstack Dev • UX/UI • AI • 3D • Automation
 
 <!---
 jhonnyvielma/jhonnyvielma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
