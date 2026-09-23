@@ -8,24 +8,23 @@
 
 💻 Software Fullstack Dev • UX/UI • AI • 3D • Automation
 
-+++++++++++++++++++++++++++++++++++++++++++++++++
+________
 
-At <a href="https://screenmediagroup.com/">Screen Media Group, LLC</a> since 2013, now wearing the CTO & AI Specialist hats.
+At <a href="https://screenmediagroup.com/">Screen Media Group, LLC</a> since 2013, now wearing the <strong>CTO & AI Specialist</strong> hats.
 
-+++++++++++++++++++++++++++++++++++++++++++++++++
+________
 
 <p><i>A good contribution starts with... <strong>quality.</strong></i></p>
 
-<pre><code>
-<span class="prompt">$</span> <span class="command">npm run test</span>
+<pre><code><span class="prompt">$</span> <span class="command">npm run test</span>
 <span class="success">✓ 42 passed</span>
 <span class="success">✓ 0 failed</span></code></pre>
 
-<p><i>Continues with... <strong>discipline.</strong></i></p>
+<p><i>continues with... <strong>discipline.</strong></i></p>
 
 <pre><code><span class="prompt">$</span> <span class="command">git commit</span> -m <span class="string">"feat(auth): add passwordless login #PROJ-1234"</span></code></pre>
 
-<p><i>And ends with... <strong>happiness.</strong></i></p>
+<p><i>and ends with... <strong>happiness.</strong></i></p>
 
 <pre><code><span class="success">✓ Merged to main</span>
 <span class="success">✓ Deployed to production</span></code></pre>
