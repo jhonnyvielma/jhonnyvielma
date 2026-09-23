@@ -8,26 +8,29 @@
 
 💻 Software Fullstack Dev • UX/UI • AI • 3D • Automation
 
++++++++++++++++++++++++++++++++++++++++++++++++++
 
 At <a href="https://screenmediagroup.com/">Screen Media Group, LLC</a> since 2013, now wearing the CTO & AI Specialist hats.
 
-<p><strong>A good contribution starts with a good unit test.</strong></p>
++++++++++++++++++++++++++++++++++++++++++++++++++
 
-<pre><code>$ npm run test
+<p><i>A good contribution starts with... <strong>quality.</strong></i></p>
 
-✓ 42 passed
-✓ 0 failed
+<pre><code>
+<span class="prompt">$</span> <span class="command">npm run test</span>
+<span class="success">✓ 42 passed</span>
+<span class="success">✓ 0 failed</span></code></pre>
 
-<strong>Continues with a good commit.</strong>
+<p><i>Continues with... <strong>discipline.</strong></i></p>
 
-$ git commit -m "feat(auth): add passwordless login #PROJ-1234"
+<pre><code><span class="prompt">$</span> <span class="command">git commit</span> -m <span class="string">"feat(auth): add passwordless login #PROJ-1234"</span></code></pre>
 
-<strong>And ends with:</strong>
+<p><i>And ends with... <strong>happiness.</strong></i></p>
 
-✓ Merged to main
-✓ Deployed to production
+<pre><code><span class="success">✓ Merged to main</span>
+<span class="success">✓ Deployed to production</span></code></pre>
 
-<strong>Now that's a contribution.</strong></code></pre>
+<p><i><strong>Now that's a contribution.</strong></i></p>
 
 <!---
 jhonnyvielma/jhonnyvielma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
