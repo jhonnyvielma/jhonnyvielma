@@ -6,7 +6,7 @@
 
 🤖 AI is the sibling I was separated from at birth.
 
-💻 Software Fullstack Dev • UX/UI • AI • 3D • Automation
+💻 Fullstack Dev • UX/UI • AI • Automation
 
 ________
 
